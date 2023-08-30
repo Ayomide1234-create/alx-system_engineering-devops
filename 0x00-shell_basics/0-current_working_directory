@@ -1,8 +1,2 @@
-cd cd emacs 0-current_working_directory
-
-git add .
-echo "yy" > pasting
-cd \alx-system_engineering-devops
 #!/bin/bash
-echo "C-x C-s" > saving
-pwd 0-current_working_directory
+pwd
